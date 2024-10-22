@@ -19,7 +19,6 @@ Users is also able to sort the displayed tickets in two ways:
 
 1. **Priority**: Arrange tickets in descending order of priority.
 2. **Title**: Sort tickets in ascending order based on their title.
-3. 
 ## Sneak Peek of  Kanban-Board :
 ![image](https://github.com/user-attachments/assets/5ac0b733-7ff7-4689-b7e3-804dd18cc9a8)
 ![image](https://github.com/user-attachments/assets/ae8e0c5c-fe14-4ba6-bde7-2001362af0a4)
