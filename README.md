@@ -25,7 +25,9 @@ Users is also able to sort the displayed tickets in two ways:
 ![image](https://github.com/user-attachments/assets/ae8e0c5c-fe14-4ba6-bde7-2001362af0a4)
 ![image](https://github.com/user-attachments/assets/040fc0bc-70e6-4b59-ba95-40f262f201a6)
 
+## Contact
 
+For any questions or inquiries, please contact [bdevansh173@gmail.com](mailto:bdevansh173@gmail.com).
 
 
 
